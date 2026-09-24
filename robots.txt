@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://menny28.github.io/Studio-Linea/sitemap.xml
